@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SABARINATHAN N</h1>
+<h1 align="center">Hi, I'm SABARINATHAN N</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2FMedRedha%2Ffd8e2481bde2610c96b9aafde543879c&psig=AOvVaw31JG-8Iz7xVDUFg0F_tOVQ&ust=1668746712895000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJCf8o20tPsCFQAAAAAdAAAAABAR">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabarinathann-vc&label=Profile%20views&color=0e75b6&style=flat" alt="sabarinathann-vc" /> </p>
